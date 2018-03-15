@@ -1,4 +1,4 @@
-(defproject clojure_cukes "1.0.X"
+(defproject apitest "1.0.X"
   :description "A demo of Cucumber with Clojure and Leiningen"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [cider/cider-nrepl "0.14.0"]

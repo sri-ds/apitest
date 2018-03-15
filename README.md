@@ -1,6 +1,5 @@
-# clojure-cukes
+# Quick test with cucumber/clojure 
 
-Just a little example illustrating how to use Cucumber with Clojure and Leiningen.
  
 Please note that the example uses [lein-cucumber](https://github.com/nilswloka/lein-cucumber), which requires Leiningen 2.
 
